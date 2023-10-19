@@ -1,0 +1,14 @@
+{
+ "embeddings": [
+  {
+   "tensorName": "redness1",
+   "tensorShape": [
+    118,
+    300
+   ],
+   "tensorPath": "https://raw.githubusercontent.com/AaltoImagingLanguage/hulten2021/master/w2v/vectors.tsv",
+   "metadataPath": "https://raw.githubusercontent.com/AaltoImagingLanguage/hulten2021/master/w2v/metadata.tsv",
+   "bookmarksPath": "https://raw.githubusercontent.com/AaltoImagingLanguage/hulten2021/master/w2v/bookmarks.json"
+  }
+ ]
+}
